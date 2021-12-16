@@ -123,6 +123,7 @@ a {
   .card__wrapper {
     height: 100vh;
     margin: 0;
+    margin-top:1rem;
     flex-direction: row;
     align-items: center;
     justify-content: center;
