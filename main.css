@@ -34,7 +34,7 @@ body {
 body,
 .wrapper,
 h2 {
-  color: var(--clr-primary-400);
+  color: red;
 }
 .card__wrapper,
 .card {
